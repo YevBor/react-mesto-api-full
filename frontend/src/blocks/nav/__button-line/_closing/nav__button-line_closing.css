@@ -1,0 +1,13 @@
+.nav__button-line_closing {
+  opacity: 0;
+}
+
+.nav__button-line_closing:first-of-type {
+  opacity: 1;
+  transform: translate(0px, 8px) rotate(135deg) ;
+}
+
+.nav__button-line_closing:last-of-type {
+  opacity: 1;
+  transform: translate(0px, -8px) rotate(-135deg) ;
+}

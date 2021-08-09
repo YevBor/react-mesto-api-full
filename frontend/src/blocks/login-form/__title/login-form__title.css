@@ -1,0 +1,12 @@
+.login-form__title {
+  margin: 60px auto 50px;
+  font-weight: 900;
+  font-size: 24px;
+  color: white;
+}
+
+@media (max-width: 620px) {
+  .login-form__title {
+    margin: 40px auto 35px;
+  }
+}

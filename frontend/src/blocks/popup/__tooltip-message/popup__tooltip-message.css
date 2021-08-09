@@ -1,0 +1,12 @@
+.popup__tooltip-message {
+  margin: 10px auto 10px;
+  text-align: center;
+  max-width: 358px;
+}
+
+@media (max-width: 620px) {
+  .popup__tooltip-message {
+    width: 244px;
+    font-size: 14px;
+  }
+}

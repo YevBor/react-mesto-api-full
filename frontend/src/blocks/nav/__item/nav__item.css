@@ -1,0 +1,13 @@
+.nav__item {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+.nav__item:last-child {
+  padding-bottom: 0;
+}
+

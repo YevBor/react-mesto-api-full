@@ -1,0 +1,11 @@
+.nav {
+  margin: 51px 0 auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media (max-width: 620px) {
+  .nav {
+    margin: 34px 30px auto auto;
+  }
+}

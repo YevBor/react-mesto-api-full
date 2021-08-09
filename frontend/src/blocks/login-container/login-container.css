@@ -1,0 +1,12 @@
+.login-container {
+  height: calc(100vh - 271px);
+  width: 358px;
+  margin: 0 auto;
+}
+
+@media (max-width: 620px) {
+  .login-container {
+    width: 260px;
+    height: calc(100vh - 271px);
+  }
+}

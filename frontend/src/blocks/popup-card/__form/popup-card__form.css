@@ -1,0 +1,13 @@
+.popup-card__form {
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 34px 36px 36px;
+}
+
+@media (max-width: 620px) {
+  .popup-card__form {
+    padding: 25px 22px;
+  }
+}

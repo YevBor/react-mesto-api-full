@@ -1,0 +1,23 @@
+.profile__about {
+  font-size: 18px;
+  margin: 6px 0 0 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 530px;
+}
+
+@media (max-width: 920px) {
+  .profile__about {
+    max-width: 320px;
+  }
+}
+
+@media (max-width: 620px) {
+  .profile__about {
+    font-size: 14px;
+    align-self: center;
+    max-width: 282px;
+    margin-top: 14px;
+  }
+}

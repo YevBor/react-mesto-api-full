@@ -1,0 +1,19 @@
+.popup__form-input {
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+.popup__form-input:first-of-type {
+  margin-top: 50px;
+}
+
+@media (max-width: 620px) {
+  .popup__form-input:first-of-type {
+    margin-top: 70px;
+  }
+}
+
+.popup__form-input:focus {
+  outline: none;}

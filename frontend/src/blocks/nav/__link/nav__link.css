@@ -1,0 +1,13 @@
+.nav__link {
+  margin: 0;
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+  color: #ffffff
+}
+
+@media (max-width: 620px) {
+  .nav__link {
+    font-size: 14px;
+  }
+}

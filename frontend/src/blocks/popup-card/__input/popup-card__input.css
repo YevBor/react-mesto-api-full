@@ -1,0 +1,17 @@
+.popup-card__input {
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+
+.popup-card__input:first-of-type {
+  margin-top: 50px;
+}
+
+@media (max-width: 620px) {
+  .popup-card__input:first-of-type {
+    margin-top: 70px;
+  }
+}

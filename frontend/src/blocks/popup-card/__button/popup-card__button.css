@@ -1,0 +1,15 @@
+.popup-card__button {
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  font-size: 18px;
+  color: white;
+  margin-top: 25px;
+}
+
+@media (max-width: 620px) {
+  .popup-card__button {
+    height: 46px;
+    font-size: 14px;
+  }
+}

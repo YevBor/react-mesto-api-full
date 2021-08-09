@@ -1,0 +1,7 @@
+.popup__form-error {
+  font-size: 12px;
+  color: red;
+  padding-top: 5px;
+  position: absolute;
+  display: none;
+}

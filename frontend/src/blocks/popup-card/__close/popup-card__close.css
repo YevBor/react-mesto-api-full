@@ -1,0 +1,17 @@
+.popup-card__close {
+  position: absolute;
+  top: -48px;
+  right: -48px;
+  width: 58px;
+  height: 58px;
+  background: transparent url(../../../images/CloseIcon.png) center no-repeat;
+}
+
+@media (max-width: 620px) {
+  .popup-card__close {
+    right: 0;
+    width: 38px;
+    height: 38px;
+    background-size: 38px 38px;
+  }
+}

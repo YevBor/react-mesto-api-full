@@ -1,0 +1,21 @@
+.cards {
+  min-height: calc(100vh - 480px);
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 17px;
+  grid-row-gap: 17px;
+}
+
+@media (max-width: 920px) {
+  .cards {
+    min-height: calc(100vh - 437px);
+  }
+}
+
+@media (max-width: 620px) {
+  .cards {
+    min-height: calc(100vh - 549px);
+    margin-top: 36px;
+  }
+}
