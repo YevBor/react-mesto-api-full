@@ -1,13 +1,10 @@
-# react-mesto-api-full
+This is a repository for the Mesto project application, which includes the frontend and backend parts of the application with the following capabilities: user authorization and registration, operations with cards and users. The backend is located in the backend/ directory, and the frontend is located in frontend/.
 
-Репозиторий для приложения проекта Mesto, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории backend/, а фронтенд - в frontend/.
+Please attach a link to the website hosted on Yandex Cloud in this description.
 
-Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
+Front https://sam-mesto-front.nomoredomains.club/ 130.193.51.138
 
-**Front** 
-https://sam-mesto-front.nomoredomains.club/
-130.193.51.138
+API sam-mesto-api.nomoredomains.club 130.193.51.138
 
-**API**
-sam-mesto-api.nomoredomains.club
-130.193.51.138
+
+
